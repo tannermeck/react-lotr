@@ -18,7 +18,6 @@ function App() {
           <Route path="/films">
             <Films />
           </Route>
-
           <Route path="/characters">
             <Character />
           </Route>
